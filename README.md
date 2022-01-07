@@ -1,3 +1,5 @@
+Looking at https://auth0.com/blog/node-js-and-typescript-tutorial-build-a-crud-api/
+
 - init with npm
 - `npm init -y`
   - automatically answer yes to all prompts
@@ -11,4 +13,8 @@
   - `npx tsc --init`
 - add ts-node-dev for watch mode
   - `npm i -D ts-node-dev`
-  - 
+
+
+COMMANDS
+- `npm run dev`
+  - restars with file changes because of package.json script
